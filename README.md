@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoshxWill
 - 👀 I’m interested in gaining the skills needed for a Software Developer role.
 - 🌱 I’m currently learning software development (Java) at Western Governors University.
-- 👥 I’m looking to collaborate on any project that give me experience in software development.
+- 👥 I’m looking to collaborate on any project that give me experience in software developmen field.
 - 📫 How to reach me jxwilliams30@gmail.com
 
 <!---
