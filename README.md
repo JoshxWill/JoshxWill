@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Williams 
 - 👀 I’m interested in gaining the skills needed for a Software Engineering role.
-- 🌱 I’m currently learning software development (Java) at Western Governors University.
+- 🌱 I’ve currently graduate with B.S. in Software Development (Java) at Western Governors University.
 - 👥 I’m looking to collaborate on any project that give me experience in software development field.
 - 📫 How to reach me jxwilliams30@gmail.com
 
