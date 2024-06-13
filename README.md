@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaining the skills needed for a tech role.
 - 🌱 I’ve recently graduated with a B.S. in Software Development at Western Governors University.
 - 👥 I’m looking to collaborate on any project that give me experience in software development.
-- 📫 How to reach me jwi3411@wgu.edu
+- 📫 How to reach me jxwilliams30@gmail.com
 
 <!---
 JoshxWill/JoshxWill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
