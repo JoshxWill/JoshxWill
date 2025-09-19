@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Joshua Williams 
-- 👀 I’m interested in gaining the skills needed for a tech role.
-- 🌱 I’ve recently graduated with a B.S. in Software Development at Western Governors University.
-- 👥 I’m looking to collaborate on any project that give me experience in software development.
-- 📫 How to reach me jxwilliams30@gmail.com
+👀 I’m passionate about Software Testing, QA Automation, and IT with a focus on building real-world skills that drive results.
+
+💻 Currently working as a Software Test Engineer, while expanding into automation testing and DevOps practices.
+
+📚 Graduate of Western Governors University with a B.S. in Software Development.
+
+👥 Open to collaborating on projects involving QA, automation frameworks, or IT tools that sharpen problem-solving skills.
+
+🚀 I also create tech-focused content on TikTok (JayGoneTech) to help others break into IT and stay ahead of industry trends.
+
+📫 Reach me at jxwilliams30@gmail.com
 
 <!---
 JoshxWill/JoshxWill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
